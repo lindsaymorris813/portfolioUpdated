@@ -1,0 +1,43 @@
+#portfolio-image {
+    margin-bottom: 20px;
+    height: 200px;
+}
+
+#placeholder {
+    margin-bottom: 20px;
+}
+
+#personal-photo {
+    width: 300px;
+    float: left;
+}
+
+a {
+    color:white; 
+}
+
+#about-me-container {
+    width: 65%;
+    height: 100vh;
+}
+
+#contact-container {
+    width: 65%;
+    height: 100vh;
+}
+
+#portfolio-container {
+    width: 65%;
+
+}
+
+.modal {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 60%; 
+    height: 60%;
+    
+  }
