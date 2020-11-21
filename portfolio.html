@@ -92,18 +92,19 @@
             </div>
             <!--linked in icon and link-->
             <div class="ml-auto m-3">
-                <a href="http://www.linkedin.com/in/lindsaymorris813" target="_blank"class="fab fa-linkedin-in fa-2x"></i></a>
+                <a href="http://www.linkedin.com/in/lindsaymorris813" target="_blank"
+                    class="fab fa-linkedin-in fa-2x"></i></a>
             </div>
             <!--instagram icon and link-->
             <div class="ml-auto m-3">
-                <a href="http://www.instagram.com/ughhhhstop" target="_blank"><i class="fab fa-instagram-square fa-2x"></i></a>
+                <a href="http://www.instagram.com/ughhhhstop" target="_blank"><i
+                        class="fab fa-instagram-square fa-2x"></i></a>
             </div>
         </div>
     </footer>
     <!--Modal for portfolio images-->
-
-    <div class="modal d-none" tabindex="-1" id="project-1">
-        <div class="modal-dialog">
+    <div class="modal fade d-none" id="project-1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable modal-xl" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title h2 text-center">Alternative Fuel Finder App Project</h5>
@@ -112,10 +113,20 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body h5 text-center">
-                    <img src="Assets/Images/fuelFinder.png" id="modal-image">
+                <div class="modal-body h5">
+                    <img class="img-responsive" src="Assets/Images/fuelFinder.png" id="modal-image" style="height: auto;">
+                    <p class="h3"><u>Usage:</u></p>
                     <p>A web App using multiple API's to generate data on local electric charging stations and
-                        alternative biofuel options based on a users current location</p>
+                        alternative biofuel options based on a users current location. Upon entering your preferences
+                        and location,
+                        a modal will pop up displaying a map with markers of locations meeting that criteria, as well as
+                        a list
+                        of all locations and relavent information.</p>
+                    <p class="h3"><u>Technologies Used:</u></p>
+                    <li>Bulma</li>
+                    <li>NREL.gov API</li>
+                    <li>Google Maps API</li>
+                    <li>JQuery</li>
                 </div>
                 <div class="modal-footer">
                     <button type="button" data-project="project-1" id="closeBtn" class="closeBtn btn btn-secondary"
@@ -126,8 +137,8 @@
             </div>
         </div>
     </div>
-    <div class="modal d-none" tabindex="-1" id="weather-app">
-        <div class="modal-dialog">
+    <div class="modal fade d-none" id="weather-app" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable modal-xl" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title h2 text-center">OpenWeatherMap API App Homework</h5>
@@ -136,10 +147,15 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body h5 text-center">
-                    <img src="Assets/Images/weather.png" id="modal-image">
-                    <p>A Web App using OpenWeatherMap's API to produce current conditions and five day forecasts for
-                        user input city</p>
+                <div class="modal-body h5">
+                    <img class="img-responsive" src="Assets/Images/weather.png" id="modal-image" style="height: auto;">
+                        <p class="h3"><u>Usage:</u></p>
+                        <p>A Web App using OpenWeatherMap's API to produce current conditions and five day forecasts for
+                            user input city.  Uses local storage to save last search and buttons prepend in sidebar to display recent searches..</p>
+                        <p class="h3"><u>Technologies Used:</u></p>
+                        <li>Bootstrap</li>
+                        <li>OpenWeatherMap API</li>
+                        <li>JQuery</li>
                 </div>
                 <div class="modal-footer">
                     <button type="button" data-project="weather-app" id="closeBtn" class="closeBtn btn btn-secondary"
@@ -150,8 +166,8 @@
             </div>
         </div>
     </div>
-    <div class="modal d-none" tabindex="-1" id="work-scheduler">
-        <div class="modal-dialog">
+    <div class="modal fade d-none" id="work-scheduler" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-xl" role="document">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title h2 text-center">Workday Scheduler Homework</h5>
@@ -160,10 +176,14 @@
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
-                <div class="modal-body h5 text-center">
-                    <img src="Assets/Images/workDayScheduler.png" id="modal-image">
-                    <p>A Web App using local storage to store user input tasks and alert to time of day by changing
-                        hourly block colors based on real time</p>
+                <div class="modal-body h5">
+                    <img class="img-responsive" src="Assets/Images/workDayScheduler.png" id="modal-image" style="height: auto;">
+                    <p class="h3"><u>Usage:</u></p>
+                    <p>A Web App using local storage to store user input tasks. Color of hourly blocks changes depending on past, present, or future realtime status.</p>
+                    <p class="h3"><u>Technologies Used:</u></p>
+                    <li>Bootstrap</li>
+                    <li>JQuery</li>
+                    
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="closeBtn btn btn-secondary" id="closeBtn" data-project="work-scheduler"
