@@ -6,12 +6,12 @@ Updated portfolio1 homework with Project 1 and 2 other homework assignments and 
 [Repository](https://github.com/lindsaymorris813/portfolioUpdated)
 
 IMAGES:
-[About Me Still](Assets/Images/About Me Page.png)
-[Footer Detail](Assets/Images/Footer Detail.png)
-[Portfolio Still](Assets/Images/Portfolio Page.png)
-[Portfolio Modal Still](Assets/Images/Portfolio Modal.png)
-[Portfolio Modal Scroll Feature](Assets/Images/Portfolio Modal Scroll.png)
-[Contact Page Still](Assets/Images/Contact Page.png)
+[About Me Still](Assets/Images/AboutMePage.png)  
+[Footer Detail](Assets/Images/FooterDetail.png)
+[Portfolio Still](Assets/Images/PortfolioPage.png)
+[Portfolio Modal Still](Assets/Images/PortfolioModal.png)
+[Portfolio Modal Scroll Feature](Assets/Images/PortfolioModalScroll.png)
+[Contact Page Still](Assets/Images/ContactPage.png)
 
 
 # Unit 08 Project 1 Homework: Professional Materials
