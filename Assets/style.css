@@ -32,12 +32,27 @@ a {
 }
 
 .modal {
-    display: none;
     position: fixed; 
     z-index: 1; 
-    left: 0;
-    top: 0;
-    width: 60%; 
-    height: 60%;
-    
+    font-family:sans-serif;
+
+  }
+
+  #modal-image {
+      width: 100%;
+      height: 100%;
+  }
+
+  img {
+      margin-bottom: 20px;
+  }
+
+  .media-center {
+      width: 350px;
+      height: 350px;
+  }
+
+  .media {
+      width: 350px;
+      height: 350px;
   }
