@@ -10,7 +10,7 @@ IMAGES:
 [Footer Detail](Assets/Images/FooterDetail.png)
 [Portfolio Still](Assets/Images/PortfolioPage.png)
 [Portfolio Modal Still](Assets/Images/PortfolioModal.png)
-[Portfolio Modal Scroll Feature](Assets/Images/PortfolioModalScroll.png)
+[Portfolio Modal Scroll Feature](Assets/Images/ModalScroll.png)
 [Contact Page Still](Assets/Images/ContactPage.png)
 
 
