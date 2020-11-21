@@ -1,5 +1,19 @@
 # portfolioUpdated
 Updated portfolio1 homework with Project 1 and 2 other homework assignments and resume, etc...
+
+[Deployed Page](https://lindsaymorris813.github.io/portfolioUpdated/)
+
+[Repository](https://github.com/lindsaymorris813/portfolioUpdated)
+
+IMAGES:
+[About Me Still](Assets/Images/About Me Page.png)
+[Footer Detail](Assets/Images/Footer Detail.png)
+[Portfolio Still](Assets/Images/Portfolio Page.png)
+[Portfolio Modal Still](Assets/Images/Portfolio Modal.png)
+[Portfolio Modal Scroll Feature](Assets/Images/Portfolio Modal Scroll.png)
+[Contact Page Still](Assets/Images/Contact Page.png)
+
+
 # Unit 08 Project 1 Homework: Professional Materials
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
@@ -28,6 +42,7 @@ An updated portfolio for potential employers or teammates to view and get a bett
 ## Contributing
 
 Bootstrap CSS
+JQuery
 
 ## License
 N/A
